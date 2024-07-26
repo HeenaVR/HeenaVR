@@ -5,8 +5,7 @@
 
 *Full-stack developer with a passion for crafting exceptional digital experiences.*
 
-
-![Img_HeenaVaru-fotor-ai-art-effects-20240726133208](https://github.com/user-attachments/assets/432498b6-eec8-40ad-80b0-6dc59e978854)
+![Img_HeenaVaru-fotor-ai-art-effects-20240726133208 copy](https://github.com/user-attachments/assets/f11649e3-f5d9-4aa3-b60e-aa20a51e9e84)
 
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/heenavaru](https://troopl.com/heenavaru)
@@ -31,6 +30,7 @@
 
 
 <!--
+![Img_HeenaVaru-fotor-ai-art-effects-20240726133208](https://github.com/user-attachments/assets/432498b6-eec8-40ad-80b0-6dc59e978854)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heenavr&label=Profile%20views&color=0e75b6&style=flat" alt="heenavr" /> </p>
 
