@@ -1,4 +1,9 @@
-## Hi there 👋
+## Heena Varu - Full-Stack Developer
+
+### About Me
+
+*Full-stack developer with a passion for crafting exceptional digital experiences.*
+
 
 ![Img_HeenaVaru-fotor-ai-art-effects-20240726133208](https://github.com/user-attachments/assets/432498b6-eec8-40ad-80b0-6dc59e978854)
 
