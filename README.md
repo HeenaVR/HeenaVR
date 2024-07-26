@@ -1,12 +1,9 @@
-<h1 align="center">Hello Heena Varu</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Heena Varu</h1> <span><h3 align="center">Full-Stack Developer</h3></span>
 
-### About Me
-
+<h3>About Me:</h3>
 *Full-stack developer with a passion for crafting exceptional digital experiences.*
 
 ![Img_HeenaVaru-fotor-ai-art-effects-20240726133208 copy](https://github.com/user-attachments/assets/f11649e3-f5d9-4aa3-b60e-aa20a51e9e84)
-
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/heenavaru](https://troopl.com/heenavaru)
 
