@@ -28,3 +28,7 @@ Welcome to my GitHub profile! I'm a highly motivated and results-oriented **Full
 - Strong Object-Oriented Programming concepts
 - Agile methodologies (Scrum, Kanban)
 - Basic UI/UX design principles
+
+Thanks for stopping by! Feel free to explore my projects and reach out if you'd like to collaborate or chat about tech. Let's build something amazing together! 🌟
+
+[LinkedIn](https://www.linkedin.com/in/heenavr) | [Medium](https://medium.com/@heena.nvr)
