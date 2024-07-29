@@ -31,4 +31,4 @@ Welcome to my GitHub profile! I'm a highly motivated and results-oriented **Full
 
 Thanks for stopping by! Feel free to explore my projects and reach out if you'd like to collaborate or chat about tech. Let's build something amazing together! 🌟
 
-[LinkedIn](https://www.linkedin.com/in/heenavr) | [Medium](https://medium.com/@heena.nvr)
+[LinkedIn](https://www.linkedin.com/in/heena-varu) | [Medium](https://medium.com/@heena.nvr)
