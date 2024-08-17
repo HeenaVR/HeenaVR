@@ -11,9 +11,10 @@ Welcome to my GitHub profile! I'm a highly motivated and results-oriented **Full
 ## 🛠️ Technical Skills
 
 ### Languages & Frameworks
-- **Front-end:** HTML, CSS, Bootstrap, JavaScript (Stimulus JS), JSON
+- **Front-end:** HTML, CSS, Bootstrap, JavaScript (Stimulus JS), JSON, React.js
 - **Back-end:** Ruby on Rails, SQL (MySQL, PostgreSQL, SQLite)
 - **iOS Development:** Swift, SwiftUI
+- **Mobile Development:** React Native
 
 ### Tools & Platforms
 - Git / GitHub
