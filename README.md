@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Heena%20Varu&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Senior%20Mobile%20Engineer%20%E2%80%94%20React%20Native%20%2B%20iOS&descSize=16&descAlignY=78&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Heena%20Varu&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Software%20Engineer%20%E2%80%94%20React%20Native%20%2B%20iOS&descSize=16&descAlignY=78&descColor=a78bfa" width="100%"/>
 
 </div>
 
 <br/>
 
 ```typescript
-const heena: SeniorMobileEngineer = {
+const heena: MobileEngineer = {
   role:     "Software Engineer — Mobile",
   company:  "S.Oliver Group · Multi-Brand Commerce at Scale",
   focus:    ["React Native", "iOS", "TypeScript", "Cross-Platform Architecture"],
