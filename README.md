@@ -8,7 +8,7 @@
 
 ```typescript
 const heena: SeniorMobileEngineer = {
-  role:     "Senior Software Engineer — Mobile",
+  role:     "Software Engineer — Mobile",
   company:  "S.Oliver Group · Multi-Brand Commerce at Scale",
   focus:    ["React Native", "iOS", "TypeScript", "Cross-Platform Architecture"],
   location: "Bavaria, Germany 🇩🇪",
